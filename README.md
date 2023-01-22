@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif)]()
+<!-- [![MasterHead](https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif)]() -->
 
 <h1 align="center">Hi 👋, I'm Shivang Singh Negi</h1>
 <h3 align="center">I am an Artificial Intelligence Enthusiast.</h3>
