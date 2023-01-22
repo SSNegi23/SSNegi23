@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6%2F68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966&imgrefurl=https%3A%2F%2Fgithub.com%2Ffroilansulit&tbnid=35X6L1D39_KDvM&vet=10CCAQxiAoB2oXChMIwJq87bnb_AIVAAAAAB0AAAAAEAU..i&docid=NKn63vP4ibu1NM&w=500&h=500&itg=1&q=animated%20coding%20gif&ved=0CCAQxiAoB2oXChMIwJq87bnb_AIVAAAAAB0AAAAAEAU)]()
 
 <h1 align="center">Hi 👋, I'm Shivang Singh Negi</h1>
 <h3 align="center">I am an Artificial Intelligence Enthusiast.</h3>
