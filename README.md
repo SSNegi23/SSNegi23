@@ -23,19 +23,6 @@ Welcome to my GitHub profile! I am **Shivang Singh Negi**, a passionate Software
 
 ---
 
-## 📌 Featured Projects
-Here are a few projects that showcase my skills and expertise:
-### **Coders Gym Frontend Website**  
-- **Repository**: [GitHub](https://github.com/SSNegi23/coders-gym-frontend-website)  
-- **Live Demo**: [Coders Gym Website](https://coders-gym-frontend-website.onrender.com/)  
-- **Description**: A dynamic and responsive platform designed for coding enthusiasts. Built using **ReactJS**, **Tailwind CSS**, and **Framer Motion**, emphasizing performance and accessibility.
-
-### **Local LLM Chatbot**  
-- An AI-powered chatbot leveraging **local language models** for enhanced privacy and personalization.  
-- Integrated with **Langchain** for natural language understanding.  
-
----
-
 ## 📫 Let’s Connect!
 I’m actively seeking opportunities to collaborate and grow. Reach out to me:  
 - **LinkedIn**: [Shivang Singh Negi](https://www.linkedin.com/in/shivang-singh-negi/)  
